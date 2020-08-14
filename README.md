@@ -7,7 +7,7 @@ Kalyan MSc Thesis
 
 Matlab Based Programs (Requires NIRFAST):
 1.Source file for Circular Geometry.
-   GetPhase.m
+  * GetPhase.m
    avg_out_values_circle.m
    fem_amp_phase_Circle.m
    load_fem_data_Circle.m

@@ -4,9 +4,9 @@ The following MATLAB programs were used as a part of MSc.(Engg.) thesis submitte
 
 Thesis Title: Development and Validation of Analytical Models for Diﬀuse Fluorescence Spectroscopy/Imaging in Regular Geometries.
 
-Kalyan MSc Thesis
+[Kalyan MSc Thesis](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxzZXJjbWlnfGd4OjcyOTNmYjUwZGI0YTc2NWM)
 
-Matlab Based Programs (Requires NIRFAST):
+Matlab Based Programs (Requires [NIRFAST](http://www.dartmouth.edu/~nir/nirfast/)):
 
 Source file for Circular Geometry.
 GetPhase.m

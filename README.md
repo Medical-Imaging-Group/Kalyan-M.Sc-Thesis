@@ -9,13 +9,13 @@ The following MATLAB programs were used as a part of MSc.(Engg.) thesis submitte
 Matlab Based Programs (Requires [NIRFAST](http://www.dartmouth.edu/~nir/nirfast/)):
 
 1.Source file for Circular Geometry.<br/>
-     - GetPhase.m <br/>
+     * GetPhase.m <br/> 
      _ avg_out_values_circle.m<br/>
      _ fem_amp_phase_Circle.m<br/>
      _ load_fem_data_Circle.m<br/>
      _ src_det_dist_Circle.m<br/>
      _ analytical_MTOF_Circle.m<br/>
-     _  analytical_data_Circle.m<br/>
+     _ analytical_data_Circle.m<br/>
      _ fdot_Circle.m<br/>
      
    1.Source file for Cube Geometry<br/>.
@@ -83,4 +83,5 @@ Matlab Based Programs (Requires [NIRFAST](http://www.dartmouth.edu/~nir/nirfast/
     _ Cube_PAT.m<br/>
     
 6. Meshes to verify the fluorescence computation in NIRFAST.
+
    1.Directory Structure for source o be integrated in NIRFAST.

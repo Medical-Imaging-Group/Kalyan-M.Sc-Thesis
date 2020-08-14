@@ -35,7 +35,7 @@ Matlab Based Programs (Requires [NIRFAST](http://www.dartmouth.edu/~nir/nirfast/
     -  dot_Slab.m<br/>
     -  analytical_MTOF_Slab.m<br/>
      
-3.Source file for Cylindrical Geometry.<br/>
+3. Source file for Cylindrical Geometry.<br/>
    -   fem_amp_phase_Cylinder.<br/>
    -  avg_out_values_Cylinder.m<br/>
    -   load_fem_data_Cylinder.m<br/>
@@ -52,7 +52,7 @@ Matlab Based Programs (Requires [NIRFAST](http://www.dartmouth.edu/~nir/nirfast/
     -   fdot_Sphere.m<br/>
     -   analytical_data_Sphere.m<br/>
      
-   2.Source file for MTOF calculation.<br/>
+   2. Source file for MTOF calculation.<br/>
     - save_trdata.m<br/>
     - load_trdata.m<br/>
     - TR_data.m<br/>
@@ -62,7 +62,7 @@ Matlab Based Programs (Requires [NIRFAST](http://www.dartmouth.edu/~nir/nirfast/
     - Tau_Vary.m<br/>
     - AllGeom_MTOF.m<br/>
     
-4.Source file for Patient Mesh.<br/>
+4. Source file for Patient Mesh.<br/>
     - fem_amp_phase_pat.m<br/>
     - avg_out_values.m<br/>
     - load_fem_data_pat.m<br/>
@@ -71,7 +71,7 @@ Matlab Based Programs (Requires [NIRFAST](http://www.dartmouth.edu/~nir/nirfast/
     - convert_fl_mesh.m<br/>
     - fdot_pat.m<br/>
     
-5.Files performing generic functions.<br/>
+5. Files performing generic functions.<br/>
     - run_simulations.m<br/>
     - TOF_plots.m<br/>
     - params.m<br/>

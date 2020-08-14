@@ -7,13 +7,13 @@ Kalyan MSc Thesis
 
 Matlab Based Programs (Requires NIRFAST):
 *1.Source file for Circular Geometry.
-  * GetPhase.m
-   avg_out_values_circle.m
-   fem_amp_phase_Circle.m
-   load_fem_data_Circle.m
-   src_det_dist_Circle.m
-   analytical_MTOF_Circle.m
-   analytical_data_Circle.m
+   * GetPhase.m
+   *avg_out_values_circle.m
+   *fem_amp_phase_Circle.m
+   *load_fem_data_Circle.m
+   *src_det_dist_Circle.m
+   *analytical_MTOF_Circle.m
+   *analytical_data_Circle.m
    fdot_Circle.m
    Source file for Cube Geometry.
    avg_out_values.m

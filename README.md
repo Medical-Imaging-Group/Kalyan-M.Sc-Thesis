@@ -48,14 +48,14 @@ Matlab Based Programs (Requires [NIRFAST](http://www.dartmouth.edu/~nir/nirfast/
     * fdot_Sphere.m<br/>
     * analytical_data_Sphere.m<br/>
   2.Source file for MTOF calculation.<br/>
-   * save_trdata.m<br/>
-   * load_trdata.m<br/>
-   * TR_data.m<br/>
-   * TPSF.m<br/>
-   * plot_mtof.m<br/>
-   * fem_MeanTimeOfFlight.m<br/>
-   * Tau_Vary.m<br/>
-   * AllGeom_MTOF.m<br/>
+    save_trdata.m<br/>
+    load_trdata.m<br/>
+    TR_data.m<br/>
+    TPSF.m<br/>
+    plot_mtof.m<br/>
+    fem_MeanTimeOfFlight.m<br/>
+    Tau_Vary.m<br/>
+    AllGeom_MTOF.m<br/>
 4.Source file for Patient Mesh.<br/>
     fem_amp_phase_pat.m<br/>
     avg_out_values.m<br/>

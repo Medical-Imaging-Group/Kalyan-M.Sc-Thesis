@@ -14,7 +14,7 @@ Matlab Based Programs (Requires NIRFAST):
    *src_det_dist_Circle.m
    *analytical_MTOF_Circle.m
    *analytical_data_Circle.m
-   fdot_Circle.m
+   *fdot_Circle.m
    Source file for Cube Geometry.
    avg_out_values.m
    load_fem_data_Cube.m

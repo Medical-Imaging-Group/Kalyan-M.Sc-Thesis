@@ -18,7 +18,7 @@ Matlab Based Programs (Requires [NIRFAST](http://www.dartmouth.edu/~nir/nirfast/
      - analytical_data_Circle.m<br/>
      - fdot_Circle.m<br/>
      
-   1. Source file for Cube Geometry<br/>.
+   1.Source file for Cube Geometry<br/>.
      - avg_out_values.m<br/><br/>
      - load_fem_data_Cube.m<br/>
      - fem_amp_phase_Cube.m<br/>
@@ -26,7 +26,7 @@ Matlab Based Programs (Requires [NIRFAST](http://www.dartmouth.edu/~nir/nirfast/
      - src_det_dist_Cube.m<br/>
      - fdot_Cube.m<br/>
      
-2.Source file for Semi-Infinite Geometry approximation using Slab.<br/>
+2. Source file for Semi-Infinite Geometry approximation using Slab.<br/>
     - fem_amp_phase_Slab.m<br/>
     - avg_out_values.m<br/>
     - load_fem_data_Slab.m<br/>

@@ -18,7 +18,7 @@ Matlab Based Programs (Requires [NIRFAST](http://www.dartmouth.edu/~nir/nirfast/
      - analytical_data_Circle.m<br/>
      - fdot_Circle.m<br/>
      
-     *1. Source file for Cube Geometry.<br/>
+     * 1. Source file for Cube Geometry.<br/>
      - avg_out_values.m<br/><br/>
      - load_fem_data_Cube.m<br/>
      - fem_amp_phase_Cube.m<br/>

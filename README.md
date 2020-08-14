@@ -9,29 +9,29 @@ Thesis Title: Development and Validation of Analytical Models for Diﬀuse Fluor
 Matlab Based Programs (Requires [NIRFAST](http://www.dartmouth.edu/~nir/nirfast/)):
 
 *1.Source file for Circular Geometry.<br/>
-    * GetPhase.m<br/>
-    * avg_out_values_circle.m<br/>
-    * fem_amp_phase_Circle.m<br/>
-    * load_fem_data_Circle.m<br/>
-    * src_det_dist_Circle.m<br/>
-    * analytical_MTOF_Circle.m<br/>
-    * analytical_data_Circle.m<br/>
-    * fdot_Circle.m<br/>
+     GetPhase.m<br/>
+     avg_out_values_circle.m<br/>
+     fem_amp_phase_Circle.m<br/>
+     load_fem_data_Circle.m<br/>
+     src_det_dist_Circle.m<br/>
+     analytical_MTOF_Circle.m<br/>
+     analytical_data_Circle.m<br/>
+     fdot_Circle.m<br/>
    1.Source file for Cube Geometry.<br/>
-    * avg_out_values.m<br/>
-    * load_fem_data_Cube.m<br/>
-    * fem_amp_phase_Cube.m<br/>
-    * analytical_data_Cube.m<br/>
-    * src_det_dist_Cube.m<br/>
-    * fdot_Cube.m<br/>
+     avg_out_values.m<br/>
+     load_fem_data_Cube.m<br/>
+     fem_amp_phase_Cube.m<br/>
+     analytical_data_Cube.m<br/>
+     src_det_dist_Cube.m<br/>
+     fdot_Cube.m<br/>
    2.Source file for Semi-Infinite Geometry approximation using Slab.<br/>
-    * fem_amp_phase_Slab.m<br/>
-    * avg_out_values.m<br/>
-    * load_fem_data_Slab.m<br/>
-    * analytical_data_Slab.m<br/>
-    * src_det_dist_Slab.m<br/>
-    * dot_Slab.m<br/>
-    * analytical_MTOF_Slab.m<br/>
+     fem_amp_phase_Slab.m<br/>
+     avg_out_values.m<br/>
+     load_fem_data_Slab.m<br/>
+     analytical_data_Slab.m<br/>
+     src_det_dist_Slab.m<br/>
+     dot_Slab.m<br/>
+     analytical_MTOF_Slab.m<br/>
 3.Source file for Cylindrical Geometry.<br/>
     * fem_amp_phase_Cylinder.m<br/>
     * avg_out_values_Cylinder.m<br/>

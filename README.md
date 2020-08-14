@@ -10,7 +10,7 @@ Matlab Based Programs (Requires [NIRFAST](http://www.dartmouth.edu/~nir/nirfast/
 
 1.Source file for Circular Geometry.
      * GetPhase.m <br/>
-     _  avg_out_values_circle.m
+     * avg_out_values_circle.m
      _ fem_amp_phase_Circle.m
      _ load_fem_data_Circle.m
      _ src_det_dist_Circle.m

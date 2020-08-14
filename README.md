@@ -9,13 +9,13 @@ The following MATLAB programs were used as a part of MSc.(Engg.) thesis submitte
 Matlab Based Programs (Requires [NIRFAST](http://www.dartmouth.edu/~nir/nirfast/)):
 
 1.Source file for Circular Geometry.
-     _ GetPhase.m
+     _ GetPhase.m<br/>
      _ avg_out_values_circle.m<br/>
      _ fem_amp_phase_Circle.m<br/>
      _ load_fem_data_Circle.m<br/>
      _ src_det_dist_Circle.m<br/>
      _ analytical_MTOF_Circle.m<br/>
-     _analytical_data_Circle.m<br/>
+     _  analytical_data_Circle.m<br/>
      _ fdot_Circle.m<br/>
    1.Source file for Cube Geometry.<br/>
      _ avg_out_values.m<br/>

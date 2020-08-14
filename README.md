@@ -8,22 +8,22 @@ The following MATLAB programs were used as a part of MSc.(Engg.) thesis submitte
 
 Matlab Based Programs (Requires [NIRFAST](http://www.dartmouth.edu/~nir/nirfast/)):
 
-1.Source file for Circular Geometry.
+1.Source file for Circular Geometry.<br/>
      - GetPhase.m <br/>
-     - avg_out_values_circle.m
-     _ fem_amp_phase_Circle.m
-     _ load_fem_data_Circle.m
-     _ src_det_dist_Circle.m
-     _ analytical_MTOF_Circle.m
-     _  analytical_data_Circle.m
-     _ fdot_Circle.m
+     - avg_out_values_circle.m<br/>
+     _ fem_amp_phase_Circle.m<br/>
+     _ load_fem_data_Circle.m<br/>
+     _ src_det_dist_Circle.m<br/>
+     _ analytical_MTOF_Circle.m<br/>
+     _  analytical_data_Circle.m<br/>
+     _ fdot_Circle.m<br/>
      
-   1.Source file for Cube Geometry.
-     _ avg_out_values.m<br/>
-     _ load_fem_data_Cube.m
-     _ fem_amp_phase_Cube.m
-     _ analytical_data_Cube.m
-     _ src_det_dist_Cube.m
+   1.Source file for Cube Geometry<br/>.
+     _ avg_out_values.m<br/><br/>
+     _ load_fem_data_Cube.m<br/>
+     _ fem_amp_phase_Cube.m<br/>
+     _ analytical_data_Cube.m<br/>
+     _ src_det_dist_Cube.m<br/>
      _ fdot_Cube.m
      
    2.Source file for Semi-Infinite Geometry approximation using Slab.

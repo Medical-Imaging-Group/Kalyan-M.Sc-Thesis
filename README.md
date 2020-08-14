@@ -9,7 +9,7 @@ Thesis Title: Development and Validation of Analytical Models for Diﬀuse Fluor
 Matlab Based Programs (Requires [NIRFAST](http://www.dartmouth.edu/~nir/nirfast/)):
 
 1.Source file for Circular Geometry.<br/>
-     GetPhase.m<br/>
+     /*GetPhase.m<br/>
      avg_out_values_circle.m<br/>
      fem_amp_phase_Circle.m<br/>
      load_fem_data_Circle.m<br/>
@@ -33,20 +33,20 @@ Matlab Based Programs (Requires [NIRFAST](http://www.dartmouth.edu/~nir/nirfast/
      dot_Slab.m<br/>
      analytical_MTOF_Slab.m<br/>
 3.Source file for Cylindrical Geometry.<br/>
-    * fem_amp_phase_Cylinder.m<br/>
-    * avg_out_values_Cylinder.m<br/>
-    * load_fem_data_Cylinder.m<br/>
-    * src_det_dist_Cylinder.m<br/>
-    * fdot_Cylinder.m<br/>
-    * analytical_data_Cylinder.m<br/>
+     fem_amp_phase_Cylinder.m<br/>
+     avg_out_values_Cylinder.m<br/>
+     load_fem_data_Cylinder.m<br/>
+     src_det_dist_Cylinder.m<br/>
+     fdot_Cylinder.m<br/>
+     analytical_data_Cylinder.m<br/>
   1. Source file for Spherical Geometry.<br/>
-    * src_det_dist_Sphere.m<br/>
-    * fem_amp_phase_Sphere.m<br/>
-    * avg_out_values_Sphere.m<br/>
-    * load_fem_data_Sphere.m<br/>
-    * analytical_MTOF_Sphere.m<br/>
-    * fdot_Sphere.m<br/>
-    * analytical_data_Sphere.m<br/>
+     src_det_dist_Sphere.m<br/>
+     fem_amp_phase_Sphere.m<br/>
+     avg_out_values_Sphere.m<br/>
+     load_fem_data_Sphere.m<br/>
+     analytical_MTOF_Sphere.m<br/>
+     fdot_Sphere.m<br/>
+     analytical_data_Sphere.m<br/>
   2.Source file for MTOF calculation.<br/>
     save_trdata.m<br/>
     load_trdata.m<br/>

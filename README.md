@@ -9,8 +9,8 @@ The following MATLAB programs were used as a part of MSc.(Engg.) thesis submitte
 Matlab Based Programs (Requires [NIRFAST](http://www.dartmouth.edu/~nir/nirfast/)):
 
 1.Source file for Circular Geometry.<br/>
-     - GetPhase.m <br/>
-     - avg_out_values_circle.m<br/>
+     _ GetPhase.m <br/>
+     _ avg_out_values_circle.m<br/>
      _ fem_amp_phase_Circle.m<br/>
      _ load_fem_data_Circle.m<br/>
      _ src_det_dist_Circle.m<br/>
@@ -26,7 +26,7 @@ Matlab Based Programs (Requires [NIRFAST](http://www.dartmouth.edu/~nir/nirfast/
      _ src_det_dist_Cube.m<br/>
      _ fdot_Cube.m<br/>
      
-   2.Source file for Semi-Infinite Geometry approximation using Slab.<br/>
+2.Source file for Semi-Infinite Geometry approximation using Slab.<br/>
      _ fem_amp_phase_Slab.m<br/>
      _ avg_out_values.m<br/>
      _ load_fem_data_Slab.m<br/>
@@ -43,7 +43,7 @@ Matlab Based Programs (Requires [NIRFAST](http://www.dartmouth.edu/~nir/nirfast/
      _ fdot_Cylinder.m<br/>
      _ analytical_data_Cylinder.m<br/>
      
-  1. Source file for Spherical Geometry.<br/>
+   1. Source file for Spherical Geometry.<br/>
      _ src_det_dist_Sphere.m<br/>
      _ fem_amp_phase_Sphere.m<br/>
      _ avg_out_values_Sphere.m<br/>
@@ -52,7 +52,7 @@ Matlab Based Programs (Requires [NIRFAST](http://www.dartmouth.edu/~nir/nirfast/
      _ fdot_Sphere.m<br/>
      _ analytical_data_Sphere.m<br/>
      
-  2.Source file for MTOF calculation.<br/>
+   2.Source file for MTOF calculation.<br/>
     _ save_trdata.m<br/>
     _ load_trdata.m<br/>
     _ TR_data.m<br/>

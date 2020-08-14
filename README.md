@@ -8,7 +8,7 @@ Thesis Title: Development and Validation of Analytical Models for Diﬀuse Fluor
 
 Matlab Based Programs (Requires [NIRFAST](http://www.dartmouth.edu/~nir/nirfast/)):
 
-Source file for Circular Geometry.
+*Source file for Circular Geometry.
 GetPhase.m
 avg_out_values_circle.m
 fem_amp_phase_Circle.m

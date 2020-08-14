@@ -53,34 +53,34 @@ Matlab Based Programs (Requires [NIRFAST](http://www.dartmouth.edu/~nir/nirfast/
     -   analytical_data_Sphere.m<br/>
      
    2.Source file for MTOF calculation.<br/>
-    _ save_trdata.m<br/>
-    _ load_trdata.m<br/>
-    _ TR_data.m<br/>
-    _ TPSF.m<br/>
-    _ plot_mtof.m<br/>
-    _ fem_MeanTimeOfFlight.m<br/>
-    _ Tau_Vary.m<br/>
-    _ AllGeom_MTOF.m<br/>
+    - save_trdata.m<br/>
+    - load_trdata.m<br/>
+    - TR_data.m<br/>
+    - TPSF.m<br/>
+    - plot_mtof.m<br/>
+    - fem_MeanTimeOfFlight.m<br/>
+    - Tau_Vary.m<br/>
+    - AllGeom_MTOF.m<br/>
     
 4.Source file for Patient Mesh.<br/>
-    _ fem_amp_phase_pat.m<br/>
-    _ avg_out_values.m<br/>
-    _ load_fem_data_pat.m<br/>
-    _ analytical_data_pat.m<br/>
-    _ uniform_fl_mesh.m<br/>
-    _ convert_fl_mesh.m<br/>
-    _ fdot_pat.m<br/>
+    - fem_amp_phase_pat.m<br/>
+    - avg_out_values.m<br/>
+    - load_fem_data_pat.m<br/>
+    - analytical_data_pat.m<br/>
+    - uniform_fl_mesh.m<br/>
+    - convert_fl_mesh.m<br/>
+    - fdot_pat.m<br/>
     
 5.Files performing generic functions.<br/>
-    _ run_simulations.m<br/>
-    _ TOF_plots.m<br/>
-    _ params.m<br/>
-    _ setup.m<br/>
-    _ meshes.m<br/>
-    _ Flux_plots.m<br/>
-    _ MTOF_plots.m<br/>
-    _ get_brs_rad.m<br/>
-    _ Cube_PAT.m<br/>
+    - run_simulations.m<br/>
+    - TOF_plots.m<br/>
+    - params.m<br/>
+    - setup.m<br/>
+    - meshes.m<br/>
+    - Flux_plots.m<br/>
+    - MTOF_plots.m<br/>
+    - get_brs_rad.m<br/>
+    - Cube_PAT.m<br/>
     
 6. Meshes to verify the fluorescence computation in NIRFAST.
 

@@ -10,47 +10,47 @@ Matlab Based Programs (Requires [NIRFAST](http://www.dartmouth.edu/~nir/nirfast/
 
 1. Source file for Circular Geometry.<br/>
      - GetPhase.m <br/> 
-     _ avg_out_values_circle.m<br/>
-     _ fem_amp_phase_Circle.m<br/>
-     _ load_fem_data_Circle.m<br/>
-     _ src_det_dist_Circle.m<br/>
-     _ analytical_MTOF_Circle.m<br/>
-     _ analytical_data_Circle.m<br/>
-     _ fdot_Circle.m<br/>
+     - avg_out_values_circle.m<br/>
+     - fem_amp_phase_Circle.m<br/>
+     - load_fem_data_Circle.m<br/>
+     - src_det_dist_Circle.m<br/>
+     - analytical_MTOF_Circle.m<br/>
+     - analytical_data_Circle.m<br/>
+     - fdot_Circle.m<br/>
      
-   1.Source file for Cube Geometry<br/>.
-     _ avg_out_values.m<br/><br/>
-     _ load_fem_data_Cube.m<br/>
-     _ fem_amp_phase_Cube.m<br/>
-     _ analytical_data_Cube.m<br/>
-     _ src_det_dist_Cube.m<br/>
-     _ fdot_Cube.m<br/>
+   1. Source file for Cube Geometry<br/>.
+     - avg_out_values.m<br/><br/>
+     - load_fem_data_Cube.m<br/>
+     - fem_amp_phase_Cube.m<br/>
+     - analytical_data_Cube.m<br/>
+     - src_det_dist_Cube.m<br/>
+     - fdot_Cube.m<br/>
      
 2.Source file for Semi-Infinite Geometry approximation using Slab.<br/>
-     _ fem_amp_phase_Slab.m<br/>
-     _ avg_out_values.m<br/>
-     _ load_fem_data_Slab.m<br/>
-     _ analytical_data_Slab.m<br/>
-     _ src_det_dist_Slab.m<br/>
-     _ dot_Slab.m<br/>
-     _ analytical_MTOF_Slab.m<br/>
+    - fem_amp_phase_Slab.m<br/>
+    - avg_out_values.m<br/>
+    - load_fem_data_Slab.m<br/>
+    - analytical_data_Slab.m<br/>
+    - src_det_dist_Slab.m<br/>
+    -  dot_Slab.m<br/>
+    -  analytical_MTOF_Slab.m<br/>
      
 3.Source file for Cylindrical Geometry.<br/>
-     _ fem_amp_phase_Cylinder.<br/>
-     _ avg_out_values_Cylinder.m<br/>
-     _ load_fem_data_Cylinder.m<br/>
-     _ src_det_dist_Cylinder.m<br/>
-     _ fdot_Cylinder.m<br/>
-     _ analytical_data_Cylinder.m<br/>
+   -   fem_amp_phase_Cylinder.<br/>
+   -  avg_out_values_Cylinder.m<br/>
+   -   load_fem_data_Cylinder.m<br/>
+   -   src_det_dist_Cylinder.m<br/>
+   -  fdot_Cylinder.m<br/>
+   -  analytical_data_Cylinder.m<br/>
      
    1. Source file for Spherical Geometry.<br/>
-     _ src_det_dist_Sphere.m<br/>
-     _ fem_amp_phase_Sphere.m<br/>
-     _ avg_out_values_Sphere.m<br/>
-     _ load_fem_data_Sphere.m<br/>
-     _ analytical_MTOF_Sphere.m<br/>
-     _ fdot_Sphere.m<br/>
-     _ analytical_data_Sphere.m<br/>
+    -  src_det_dist_Sphere.m<br/>
+    - fem_amp_phase_Sphere.m<br/>
+    -  avg_out_values_Sphere.m<br/>
+    -  load_fem_data_Sphere.m<br/>
+    -   analytical_MTOF_Sphere.m<br/>
+    -   fdot_Sphere.m<br/>
+    -   analytical_data_Sphere.m<br/>
      
    2.Source file for MTOF calculation.<br/>
     _ save_trdata.m<br/>

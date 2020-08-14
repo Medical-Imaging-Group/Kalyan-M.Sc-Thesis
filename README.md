@@ -43,7 +43,7 @@ Matlab Based Programs (Requires [NIRFAST](http://www.dartmouth.edu/~nir/nirfast/
    -  fdot_Cylinder.m<br/>
    -  analytical_data_Cylinder.m<br/>
      
-  1. Source file for Spherical Geometry.<br/>
+   1. Source file for Spherical Geometry.<br/>
     -  src_det_dist_Sphere.m<br/>
     - fem_amp_phase_Sphere.m<br/>
     -  avg_out_values_Sphere.m<br/>
@@ -52,7 +52,7 @@ Matlab Based Programs (Requires [NIRFAST](http://www.dartmouth.edu/~nir/nirfast/
     -   fdot_Sphere.m<br/>
     -   analytical_data_Sphere.m<br/>
      
-  2. Source file for MTOF calculation.<br/>
+   2. Source file for MTOF calculation.<br/>
     - save_trdata.m<br/>
     - load_trdata.m<br/>
     - TR_data.m<br/>

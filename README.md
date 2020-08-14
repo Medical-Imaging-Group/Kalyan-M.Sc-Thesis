@@ -6,7 +6,7 @@ Thesis Title: Development and Validation of Analytical Models for Diﬀuse Fluor
 Kalyan MSc Thesis
 
 Matlab Based Programs (Requires NIRFAST):
-1.Source file for Circular Geometry.
+*1.Source file for Circular Geometry.
   * GetPhase.m
    avg_out_values_circle.m
    fem_amp_phase_Circle.m

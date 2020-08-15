@@ -21,7 +21,7 @@ Matlab Based Programs (Requires [NIRFAST](http://www.dartmouth.edu/~nir/nirfast/
      
      *1. Source file for Cube Geometry.<br/>
      
-     - avg_out_values.m<br/><br/>
+     - avg_out_values.m<br/>
      - load_fem_data_Cube.m<br/>
      - fem_amp_phase_Cube.m<br/>
      - analytical_data_Cube.m<br/>
